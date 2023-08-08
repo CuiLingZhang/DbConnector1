@@ -1,5 +1,5 @@
 {
-  "name": "dbconnector1",
+  "name": "DbConnector1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

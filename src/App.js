@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Main
+          Learn React Main Test
         </a>
         <p>Test Pull Update</p>
       </header>

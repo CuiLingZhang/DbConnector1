@@ -17,7 +17,7 @@ function App() {
         >
           Learn React Main
         </a>
-        <p>Test Pull Method3-2.</p>
+        <p>Test Pull Method.</p>
       </header>
     </div>
   );
